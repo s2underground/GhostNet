@@ -1,3 +1,5 @@
+<img src="GhostNet_logov1.PNG" align="right" height=50% width=50%>
+
 GhostNet
 =====
 GhostNet is the overarching term for a collection of communications networks set up to allow users
