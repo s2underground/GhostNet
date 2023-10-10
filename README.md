@@ -1,4 +1,3 @@
-# GhostNet
 GhostNet
 =====
 GhostNet is the overarching term for a collection of communications networks set up to allow users
